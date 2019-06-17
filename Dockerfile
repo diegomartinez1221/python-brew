@@ -18,6 +18,6 @@ ENV DISPLAY=:99
 RUN pip install selenium==3.13.0
 RUN pip install civis==1.10.0
 RUN pip install boto3==1.9.159
-RUN pip install bs4==4.4.0
+RUN pip install bs4==0.0.1
 RUN pip install geopy==1.20.0
 RUN pip install html5lib==1.0.1
