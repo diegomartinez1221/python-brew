@@ -23,3 +23,4 @@ RUN pip install geopy==1.20.0
 RUN pip install html5lib==1.0.1
 RUN pip install twython==3.7.0
 RUN pip install pandas==0.24.2
+RUN pip install newsapi-python==0.2.5
